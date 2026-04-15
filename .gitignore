@@ -1,0 +1,27 @@
+# Processing
+build/
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.#*
+
+# Environment
+.env
+.env.local
+
+# Misc
+node_modules/
+__pycache__/
